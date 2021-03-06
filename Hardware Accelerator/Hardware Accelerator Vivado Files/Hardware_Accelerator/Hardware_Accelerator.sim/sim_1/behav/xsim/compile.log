@@ -1,0 +1,24 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Gaurav/Vivado/Hardware_Accelerator/Hardware_Accelerator.srcs/sources_1/new/LeNet1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module priority_encoder
+INFO: [VRFC 10-311] analyzing module FP16_Add
+INFO: [VRFC 10-311] analyzing module FP16_Multiply
+INFO: [VRFC 10-311] analyzing module ReLu
+INFO: [VRFC 10-311] analyzing module Average
+INFO: [VRFC 10-311] analyzing module Average_Relu
+INFO: [VRFC 10-311] analyzing module stackSum
+INFO: [VRFC 10-311] analyzing module kernel
+INFO: [VRFC 10-311] analyzing module kernel2
+INFO: [VRFC 10-311] analyzing module rowConv1
+INFO: [VRFC 10-311] analyzing module conv1
+INFO: [VRFC 10-311] analyzing module AveragePool_1
+INFO: [VRFC 10-311] analyzing module rowConv2
+INFO: [VRFC 10-311] analyzing module conv2
+INFO: [VRFC 10-311] analyzing module conv2_feature
+INFO: [VRFC 10-311] analyzing module AveragePool_2
+INFO: [VRFC 10-311] analyzing module processElement
+INFO: [VRFC 10-311] analyzing module FCLayer
+INFO: [VRFC 10-311] analyzing module FP16_Max
+INFO: [VRFC 10-311] analyzing module Answer
+INFO: [VRFC 10-311] analyzing module LeNet1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Gaurav/Vivado/Hardware_Accelerator/Hardware_Accelerator.srcs/sim_1/new/testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench

@@ -1,0 +1,7 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+D:/Gaurav/Vivado/Hardware_Accelerator/Hardware_Accelerator.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+D:/Gaurav/Vivado/Hardware_Accelerator/Hardware_Accelerator.srcs/sim_1/new/testbench.v,1605976017,verilog,,,,testbench,,,,,,,,
+D:/Gaurav/Vivado/Hardware_Accelerator/Hardware_Accelerator.srcs/sources_1/new/LeNet1.v,1605975584,verilog,,D:/Gaurav/Vivado/Hardware_Accelerator/Hardware_Accelerator.srcs/sim_1/new/testbench.v,,Answer;Average;AveragePool_1;AveragePool_2;Average_Relu;FCLayer;FP16_Add;FP16_Max;FP16_Multiply;LeNet1;ReLu;conv1;conv2;conv2_feature;kernel;kernel2;priority_encoder;processElement;rowConv1;rowConv2;stackSum,,,,,,,,
